@@ -82,6 +82,8 @@ experiences:
            in a distributed environment (PySpark).
           - Development of a rule-based system, including an ETL pipeline,
           and its deployment on Google Cloud Platform.
+          - Developement of an unsupervised outlier detection model (Autoencoder)
+           to identify fraudolent patterns.
 projects:
     title: Projects
     intro: >
@@ -136,7 +138,7 @@ skills:
       - name: Outlier Detection Algorithms
         level: 75%
 
-      - name: NLP
+      - name: Natural Language Preprocessing
         level: 75%
 
       - name: OCR

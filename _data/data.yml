@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Nicola Sosio
     tagline: Senior Data Scientist
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: foto-mini.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: sosio.nicola94@tiscali.it
@@ -47,11 +47,7 @@ sidebar:
 career-profile:
     title: Career
     summary: |
-      A self-motivated, ambitious person passionate about data science. I relish
-       being challenged and working on projects that require me to work outside
-       my comfort zone and knowledge background. Knowing that there is always
-       much to learn, and that there is no cap on the knowledge base, drives
-       me to continue in the field.
+      A self-motivated, ambitious person passionate about data science. I relish being challenged and working on projects that require me to work outside my comfort zone and knowledge background. Knowing that there is always much to learn, and that there is no cap on the knowledge base, drives me to continue in the field.
 education:
     - degree: MSc in Computer Science
       university: Politecnico di Milano
@@ -69,21 +65,15 @@ experiences:
       time: July 2021 - Ongoing
       company: Prometeia, Milano
       details: |
-        Development of a NLP pipeline for multilanguage text clustering in order
-        to extract a topics hyerarchy.
+        Development of a NLP pipeline for multilanguage text clustering in order to extract a topics hyerarchy.
     - role: Data Scientist
       time: Mar 2019 - June 2021
       company: Prometeia, Milano
       details: |
-          - Integration of OCR and object detection algorithms for the
-          extraction and structuring of semi-structured PDF documents.
-          - Development of a transactional scoring model for Credit Risk,
-           including a feature engineering and extraction pipeline
-           in a distributed environment (PySpark).
-          - Development of a rule-based system, including an ETL pipeline,
-          and its deployment on Google Cloud Platform.
-          - Developement of an unsupervised outlier detection model (Autoencoder)
-           to identify fraudolent patterns.
+          - Integration of OCR and object detection algorithms for the extraction and structuring of semi-structured PDF documents.
+          - Development of a transactional scoring model for Credit Risk, including a feature engineering and extraction pipeline in a distributed environment (PySpark).
+          - Development of a rule-based system, including an ETL pipeline, and its deployment on Google Cloud Platform.
+          - Developement of an unsupervised outlier detection model (Autoencoder) to identify fraudolent patterns.
 projects:
     title: Projects
     intro: >
@@ -91,17 +81,11 @@ projects:
     assignments:
       - title: Convolutional Neural Network to Detect Equivalent Questions in Online Forums
         link: "https://github.com/nsosio/Deep-Learning"
-        tagline: "Develop a Convolutional Neural Network (CNN) to detect semantically equivalent questions.
-         In the first step, the network transforms words into real valued feature vectors, also known as
-         word embeddings. Next, a convolutional layer is used to construct two distributed vector representations,
-         one for each input question. Finally, the network computes a similarity score between the two distributed
-         vector representations. Pairs of questions with similarity above a threshold are considered duplicates."
+        tagline: "Develop a Convolutional Neural Network (CNN) to detect semantically equivalent questions. In the first step, the network transforms words into real valued feature vectors, also known as word embeddings. Next, a convolutional layer is used to construct two distributed vector representations, one for each input question. Finally, the network computes a similarity score between the two distributed vector representations. Pairs of questions with similarity above a threshold are considered duplicates."
 
       - title: Aui-ConversationalEmotion
         link: "https://github.com/nsosio/Aui-ConversationalEmotion"
-        tagline: "Focus on the design, development and evaluation of a conversational agent with sentiment analysis
-        capabilities from natural language processing. Design an algorithm to explore conversational patterns
-        defining emo- tions."
+        tagline: "Focus on the design, development and evaluation of a conversational agent with sentiment analysis capabilities from natural language processing. Design an algorithm to explore conversational patterns defining emotions."
 
 publications:
     title: Publications

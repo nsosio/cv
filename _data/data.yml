@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Nicola Sosio
     tagline: Senior Data Scientist
-    avatar: foto-mini.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: sosio.nicola94@tiscali.it

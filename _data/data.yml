@@ -38,7 +38,7 @@ sidebar:
 
       - item: Trekking ⛰
         link:
-          
+
       - item: Climbing 🧗🏻
         link:
 
@@ -74,7 +74,7 @@ experiences:
       time: Mar 2019 - June 2021
       company: Prometeia, Milano
       details: |
-          - Integration of OCR and object detection algorithms for the extraction and structuring of semi-structured PDF documents.
+          - Integration of OCR and object detection algorithms to extract and to structure information from semi-structured PDF documents.
           - Development of a transactional scoring model for Credit Risk, including a feature engineering and extraction pipeline in a distributed environment (PySpark).
           - Development of a rule-based system, including an ETL pipeline, and its deployment on Google Cloud Platform.
           - Developement of an unsupervised outlier detection model (Autoencoder) to identify fraudolent patterns.

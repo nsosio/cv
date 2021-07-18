@@ -81,7 +81,7 @@ projects:
     assignments:
       - title: Convolutional Neural Network to Detect Equivalent Questions in Online Forums
         link: "https://github.com/nsosio/Deep-Learning"
-        tagline: "Develop a Convolutional Neural Network (CNN) to detect semantically equivalent questions. In the first step, the network transforms words into real valued feature vectors, also known as word embeddings. Next, a convolutional layer is used to construct two distributed vector representations, one for each input question. Finally, the network computes a similarity score between the two distributed vector representations. Pairs of questions with similarity above a threshold are considered duplicates."
+        tagline: "Develop a Convolutional Neural Network (CNN) to detect semantically equivalent questions. The proposed CNN generates distributed vector representations for pairs of questions and score them using a similarity metric."
 
       - title: Aui-ConversationalEmotion
         link: "https://github.com/nsosio/Aui-ConversationalEmotion"
